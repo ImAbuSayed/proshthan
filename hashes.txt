@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Proshthan
+
+This log tracks the cryptographic history and versioning for the song **Proshthan** (proshthan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T06:05:28.939180 | `v1` | `bbd471eb7137abb414f2b83b3c3f4e2a54954f060d6b15cde4f2cd320a65eb34` | `cea059d0ac06c9f48dc31c87005939d1c79e9fd3ca6ee94b3811817679c663e9` | `2026-05-12_proshthan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

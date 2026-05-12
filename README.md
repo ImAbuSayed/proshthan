@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/proshthan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Proshthan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/proshthan/) |
+| **Get License** | [Commercial Licensing for Proshthan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/proshthan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bbd471eb7137abb414f2b83b3c3f4e2a54954f060d6b15cde4f2cd320a65eb34` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
